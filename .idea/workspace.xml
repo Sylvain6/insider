@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a15b49b7-218d-45ca-b9a3-7c8215a9b0ea" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/aria_log.00000001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/aria_log_control" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/ib_logfile0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/ib_logfile1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/ibdata1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/ibtmp1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/multi-master.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/column_stats.MYD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/column_stats.MYI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/column_stats.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/columns_priv.MYD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/columns_priv.MYI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/columns_priv.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/db.MYD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/db.MYI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/db.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/event.MYD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/event.MYI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/event.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/func.MYD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/func.MYI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/func.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/general_log.CSM" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/general_log.CSV" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/general_log.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/gtid_slave_pos.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/gtid_slave_pos.ibd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/help_category.MYD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/help_category.MYI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/help_category.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/help_keyword.MYD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/help_keyword.MYI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/help_keyword.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/help_relation.MYD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/help_relation.MYI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/help_relation.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/help_topic.MYD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/help_topic.MYI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/help_topic.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/host.MYD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/host.MYI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/host.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/index_stats.MYD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/index_stats.MYI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/index_stats.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/innodb_index_stats.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/innodb_index_stats.ibd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/innodb_table_stats.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/innodb_table_stats.ibd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/plugin.MYD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/plugin.MYI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/plugin.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/proc.MYD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/proc.MYI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/proc.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/procs_priv.MYD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/procs_priv.MYI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/procs_priv.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/proxies_priv.MYD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/proxies_priv.MYI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/proxies_priv.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/roles_mapping.MYD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/roles_mapping.MYI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/roles_mapping.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/servers.MYD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/servers.MYI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/servers.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/slow_log.CSM" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/slow_log.CSV" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/slow_log.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/table_stats.MYD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/table_stats.MYI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/table_stats.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/tables_priv.MYD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/tables_priv.MYI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/tables_priv.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/time_zone.MYD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/time_zone.MYI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/time_zone.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/time_zone_leap_second.MYD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/time_zone_leap_second.MYI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/time_zone_leap_second.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/time_zone_name.MYD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/time_zone_name.MYI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/time_zone_name.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/time_zone_transition.MYD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/time_zone_transition.MYI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/time_zone_transition.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/time_zone_transition_type.MYD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/time_zone_transition_type.MYI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/time_zone_transition_type.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/transaction_registry.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/transaction_registry.ibd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/user.MYD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/user.MYI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/mysql/user.frm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.env" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.env.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/console" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phpunit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/bundles.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/dev/debug.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/dev/easy_log_handler.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/dev/monolog.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/dev/routing.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/dev/swiftmailer.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/dev/web_profiler.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/doctrine.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/doctrine_migrations.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/framework.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/prod/doctrine.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/prod/monolog.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/routing.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/security.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/sensio_framework_extra.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/swiftmailer.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/test/framework.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/test/monolog.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/test/routing.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/test/swiftmailer.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/test/web_profiler.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/translation.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/twig.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/packages/validator.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/routes.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/routes/annotations.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/routes/dev/twig.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/routes/dev/web_profiler.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/services.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker-compose.yaml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/docker/db.opt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/ib_buffer_pool" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/performance_schema/db.opt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/database/tc.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/nginx/Dockerfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/nginx/default.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker/php/Dockerfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpunit.xml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Controller/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Entity/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Kernel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Migrations/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Repository/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/symfony.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/base.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/translations/.gitignore" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".env" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="716" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="insider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="insider" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a15b49b7-218d-45ca-b9a3-7c8215a9b0ea" name="Default" comment="" />
+      <created>1543327085419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543327085419</updated>
+      <workItem from="1543327086749" duration="106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="106000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25751072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="36" lean-forward="false" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
