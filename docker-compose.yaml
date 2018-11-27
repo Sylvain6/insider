@@ -7,10 +7,6 @@ services:
             - '8082:80'
         volumes:
             - './:/usr/share/nginx/html'
-    php-fpm:
-        build: docker/php/
-        volumes:
-            - './:/usr/share/nginx/html'
     adminer:
         image: 'adminer:latest'
         ports:
@@ -19,14 +15,18 @@ services:
         image: 'composer:latest'
         volumes:
             - './:/app'
-    mariadb:
-        image: 'mariadb:10.3'
-        ports:
-            - '3306:3306'
+    php-fpm:
+        build: docker/php/
         volumes:
-            - './docker/database:/var/lib/mysql'
+            - './:/usr/share/nginx/html'
+    postgresql:
+        image: 'postgres:10.4'
+        ports:
+            - '5432:5432'
+        volumes:
+            - './docker/database:/var/lib/postgresql/data/pgdata'
         environment:
-            - MYSQL_DATABASE=docker
-            - MYSQL_USER=docker
-            - MYSQL_PASSWORD=s3cr3t
-            - MYSQL_RANDOM_ROOT_PASSWORD=yes
+            - PGDATA=/var/lib/postgresql/data/pgdata
+            - POSTGRES_DB=docker
+            - POSTGRES_USER=docker
+            - POSTGRES_PASSWORD=s3cr3t
