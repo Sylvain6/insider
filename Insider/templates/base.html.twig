@@ -3,10 +3,17 @@
     <head>
         <meta charset="UTF-8">
         <title>{% block title %}Welcome!{% endblock %}</title>
-        {% block stylesheets %}{% endblock %}
+        {% block stylesheets %}
+        <link rel="stylesheet" href="css/foundation.css">
+        {% endblock %}
     </head>
     <body>
         {% block body %}{% endblock %}
-        {% block javascripts %}{% endblock %}
+        {% block javascripts %}
+        <script href="js/vendor/foundation.js" />
+        <script href="js/vendor/jquery.js" />
+        <script href="js/vendor/what-input.js" />
+        <script href="/js/app.js" />
+        {% endblock %}
     </body>
 </html>
